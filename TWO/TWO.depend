@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1392147826 source:c:\users\charlierusk\cosc 482\two\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392147826 c:\users\charlierusk\cosc 482\two\loadshaders.h
+	<GL/gl.h>
+
+1393805973 source:c:\users\charlierusk\cosc 482\two\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"rectangle.h"
+	"polygon.h"
+
+1393100326 c:\users\charlierusk\cosc 482\two\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1393301010 c:\users\charlierusk\cosc 482\two\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393300856 c:\users\charlierusk\cosc 482\two\polygon.h
+	"vec_mat.h"
+
+1393307815 source:c:\users\charlierusk\cosc 482\two\polygon.cpp
+	"polygon.h"
+
+1393306820 source:c:\users\charlierusk\cosc 482\two\rectangle.cpp
+	"rectangle.h"
+
+1392144226 source:c:\users\charlierusk\dropbox\cosc 482\two\loadshaders.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	"LoadShaders.h"
+
+1392144226 c:\users\charlierusk\dropbox\cosc 482\two\loadshaders.h
+	<GL/gl.h>
+
+1419003924 source:c:\users\charlierusk\dropbox\cosc 482\two\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"LoadShaders.h"
+	"vec_mat.h"
+	"rectangle.h"
+	"polygon.h"
+
+1393096726 c:\users\charlierusk\dropbox\cosc 482\two\vec_mat.h
+	<math.h>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1393297410 c:\users\charlierusk\dropbox\cosc 482\two\rectangle.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	"vec_mat.h"
+
+1393297256 c:\users\charlierusk\dropbox\cosc 482\two\polygon.h
+	"vec_mat.h"
+
+1393304215 source:c:\users\charlierusk\dropbox\cosc 482\two\polygon.cpp
+	"polygon.h"
+
+1393303220 source:c:\users\charlierusk\dropbox\cosc 482\two\rectangle.cpp
+	"rectangle.h"
+
